@@ -1,5 +1,4 @@
 # xuggle
-Automatically exported from code.google.com/p/xuggle
 
 
 
